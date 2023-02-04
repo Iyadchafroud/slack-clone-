@@ -1,0 +1,16 @@
+{
+  "name": "slack",
+  "version": "1.0.0",
+  "main": "slack.js",
+  "repository": "https://github.com/Iyadchafroud/slack-clone-.git",
+  "author": "Iyadchafroud <60520088+Iyadchafroud@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon slack.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
